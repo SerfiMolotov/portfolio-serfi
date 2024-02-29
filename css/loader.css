@@ -1,4 +1,5 @@
 .code-loader {
+    display: flex;
     color: #fff;
     font-family: Consolas, Menlo, Monaco, monospace;
     font-weight: bold;
@@ -6,6 +7,8 @@
     opacity: 0.8;
     padding: 40px;
     padding-top: 0px;
+    align-items: center;
+    justify-content: center;
   }
   
   .code-loader span {
