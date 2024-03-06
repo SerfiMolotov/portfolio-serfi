@@ -12118,3 +12118,13 @@ iframe[data-uk-cover] {
   }
 }
 
+
+.creditf {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: rgb(31,31,31);
+  background: linear-gradient(90deg, rgba(31,31,31,1) 0%, rgba(31,31,31,1) 50%, rgba(31,31,31,1) 100%);
+}
